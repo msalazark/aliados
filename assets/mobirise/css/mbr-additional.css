@@ -104,7 +104,7 @@ body {
   background-color: #3caf57 !important;
 }
 .bg-info {
-  background-color: #1732a4 !important;
+  background-color: #7800ff !important;
 }
 .bg-warning {
   background-color: #ff6b00 !important;
@@ -175,12 +175,12 @@ body {
   box-shadow: 0 15px 30px 0 rgba(25, 28, 47, 0.15);
 }
 .btn-info {
-  box-shadow: 0 15px 30px 0 rgba(23, 50, 164, 0.15);
+  box-shadow: 0 15px 30px 0 rgba(120, 0, 255, 0.15);
 }
 .btn-info,
 .btn-info:active {
-  background-color: #1732a4 !important;
-  border-color: #1732a4 !important;
+  background-color: #7800ff !important;
+  border-color: #7800ff !important;
   color: #ffffff !important;
 }
 .btn-info:hover,
@@ -188,22 +188,22 @@ body {
 .btn-info.focus,
 .btn-info.active {
   color: #ffffff !important;
-  background-color: #112477 !important;
-  border-color: #112477 !important;
+  background-color: #6000cc !important;
+  border-color: #6000cc !important;
 }
 .btn-info.disabled,
 .btn-info:disabled {
   color: #ffffff !important;
-  background-color: #112477 !important;
-  border-color: #112477 !important;
+  background-color: #6000cc !important;
+  border-color: #6000cc !important;
 }
 .btn-info:before {
-  background: #1732a4;
+  background: #7800ff;
 }
 .btn-info:hover {
   color: #ffffff !important;
-  border-color: #1732a4 !important;
-  box-shadow: 0 15px 30px 0 rgba(23, 50, 164, 0.15);
+  border-color: #7800ff !important;
+  box-shadow: 0 15px 30px 0 rgba(120, 0, 255, 0.15);
 }
 .btn-success {
   box-shadow: 0 15px 30px 0 rgba(60, 175, 87, 0.15);
@@ -425,30 +425,30 @@ body {
 .btn-info-outline,
 .btn-info-outline:active {
   background-color: transparent !important;
-  border-color: #1732a4;
-  color: #1732a4;
+  border-color: #7800ff;
+  color: #7800ff;
 }
 .btn-info-outline:hover,
 .btn-info-outline:focus,
 .btn-info-outline.focus,
 .btn-info-outline.active {
   color: #ffffff !important;
-  background-color: #1732a4 !important;
-  border-color: #1732a4 !important;
+  background-color: #7800ff !important;
+  border-color: #7800ff !important;
 }
 .btn-info-outline.disabled,
 .btn-info-outline:disabled {
   color: #ffffff !important;
-  background-color: #1732a4 !important;
-  border-color: #1732a4 !important;
+  background-color: #7800ff !important;
+  border-color: #7800ff !important;
 }
 .btn-info-outline:before {
-  background: #1732a4;
+  background: #7800ff;
 }
 .btn-info-outline:hover {
   color: #ffffff !important;
   background-color: transparent !important;
-  box-shadow: 0 15px 30px 0 rgba(23, 50, 164, 0.15);
+  box-shadow: 0 15px 30px 0 rgba(120, 0, 255, 0.15);
 }
 .btn-success-outline,
 .btn-success-outline:active {
@@ -586,7 +586,7 @@ body {
   color: #3caf57 !important;
 }
 .text-info {
-  color: #1732a4 !important;
+  color: #7800ff !important;
 }
 .text-warning {
   color: #ff6b00 !important;
@@ -618,7 +618,7 @@ a.text-success.active {
 a.text-info:hover,
 a.text-info:focus,
 a.text-info.active {
-  color: #0a174b !important;
+  color: #480099 !important;
 }
 a.text-warning:hover,
 a.text-warning:focus,
@@ -650,7 +650,7 @@ a.text-black.active {
   background-color: #40A50B;
 }
 .alert-info {
-  background-color: #1732a4;
+  background-color: #7800ff;
 }
 .alert-warning {
   background-color: #ff6b00;
@@ -689,7 +689,7 @@ a:hover {
 }
 .mbr-plan-header.bg-info .mbr-plan-subtitle,
 .mbr-plan-header.bg-info .mbr-plan-price-desc {
-  color: #5470e7;
+  color: #e4ccff;
 }
 .mbr-plan-header.bg-warning .mbr-plan-subtitle,
 .mbr-plan-header.bg-warning .mbr-plan-price-desc {
@@ -899,7 +899,7 @@ a.btn-white {
 }
 .cid-skcLuebpkE .dropdown-menu,
 .cid-skcLuebpkE .navbar.opened {
-  background: #1732a4 !important;
+  background: #7800ff !important;
 }
 .cid-skcLuebpkE .nav-item:focus,
 .cid-skcLuebpkE .nav-link:focus {
@@ -933,7 +933,7 @@ a.btn-white {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid rgba(255, 255, 255, 0.15);
-  background: #1732a4;
+  background: #7800ff;
 }
 .cid-skcLuebpkE .navbar.navbar-short {
   box-shadow: 0 0 18px 1px rgba(0, 0, 0, 0.1);
@@ -1073,7 +1073,7 @@ a.btn-white {
   padding: 0;
 }
 .cid-skcLuebpkE .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #1732a4;
+  background: #7800ff;
 }
 .cid-skcLuebpkE .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -1196,10 +1196,6 @@ a.btn-white {
 .cid-skcZSONz3f .mbr-text {
   line-height: 1.54;
   margin-bottom: 50px;
-}
-.cid-skcZSONz3f .btn_group {
-  display: inline-flex;
-  flex-wrap: wrap;
 }
 .cid-skcZSONz3f .mbr-section-btn {
   display: inline-block;
@@ -1435,7 +1431,7 @@ a.btn-white {
 .cid-skd1Ry0CW0 {
   padding-top: 10rem;
   padding-bottom: 5rem;
-  background-color: #f2860a;
+  background-color: #f68611;
   overflow: hidden;
   position: relative;
 }
@@ -1623,7 +1619,7 @@ a.btn-white {
   right: 12px;
   width: 0;
   height: 0;
-  border-bottom: 10px solid #1732a4;
+  border-bottom: 10px solid #7800ff;
   border-left: 5px solid transparent;
   border-right: 5px solid transparent;
 }
@@ -1692,10 +1688,10 @@ a.btn-white {
   color: #ff6b00;
 }
 .cid-skd1DrtU6r .item:nth-child(2) .icon_block svg polygon {
-  fill: #b1bef4;
+  fill: #f4ebff;
 }
 .cid-skd1DrtU6r .item:nth-child(2) .mbr-iconfont {
-  color: #1732a4;
+  color: #7800ff;
 }
 .cid-skd1DrtU6r .item .icon_block {
   display: inline-block;
@@ -1748,7 +1744,7 @@ a.btn-white {
   right: 2px;
   width: 0;
   height: 0;
-  border-bottom: 10px solid #1732a4;
+  border-bottom: 10px solid #7800ff;
   border-left: 5px solid transparent;
   border-right: 5px solid transparent;
   transform: rotate(22deg);
@@ -1948,7 +1944,7 @@ a.btn-white {
 }
 .cid-skd3iaspJ8 .nav-tabs .nav-item:nth-child(5) .mbr-iconfont {
   box-shadow: 0px 10px 30px 0px rgba(255, 88, 88, 0.4);
-  background-image: linear-gradient(40deg, #1732a4 0%, #3d5de4 100%);
+  background-image: linear-gradient(40deg, #7800ff 0%, #ae66ff 100%);
 }
 .cid-skd3iaspJ8 .nav-item {
   width: 190px;
@@ -2091,7 +2087,7 @@ a.btn-white {
   transition: 0.6s cubic-bezier(0.165, 0.84, 0.44, 1);
 }
 .cid-skdxCTm8q9 .carousel-controls a span:hover {
-  background-color: #1732a4;
+  background-color: #7800ff;
   color: #ffffff;
 }
 .cid-skdxCTm8q9 .carousel-control-prev {
