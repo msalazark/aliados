@@ -1756,6 +1756,7 @@ a.btn-white {
   margin-bottom: 0;
   position: relative;
   font-weight: 700;
+  color: #6b3df0;
 }
 .cid-sPEkfpKWaD .btn_link span {
   display: inline-block;
@@ -1929,7 +1930,7 @@ a.btn-white {
   margin-bottom: 30px;
 }
 .cid-skd3iaspJ8 .nav-tabs .nav-link {
-  background-color: #e0e5ff !important;
+  background-color: #ffffff !important;
   padding: 40px 20px;
   display: flex;
   flex-direction: column;
@@ -1941,12 +1942,12 @@ a.btn-white {
   transition: 0.6s cubic-bezier(0.165, 0.84, 0.44, 1);
 }
 .cid-skd3iaspJ8 .nav-tabs .nav-link.active {
-  background-color: #ffffff !important;
+  background-color: #f6fbff !important;
   box-shadow: 0px 20px 40px 0px rgba(0, 33, 121, 0.08);
   color: #000000 !important;
 }
 .cid-skd3iaspJ8 .nav-tabs .nav-link:hover {
-  background-color: #ffffff !important;
+  background-color: #f6fbff !important;
   box-shadow: 0px 20px 40px 0px rgba(0, 33, 121, 0.08);
   color: #000000 !important;
   cursor: pointer;
